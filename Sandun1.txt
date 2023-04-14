@@ -1,11 +1,11 @@
-{"version_code":211817029,"content":"
-<p><br> This app is FREE and does NOT cost any money! If you paid for it, you have been scammed! Do NOT buy it again, when an UPDATE is available you will get a message automatically.No need to buy it.</p>
-
-
+{"version_code":211817032,"content":"
+<br/><b><p><i>Happy New Year!! </i>🌞</p>
+<p>ඔබ සැමට සියලු පැතුම් ඉටුවන සුබ අලුත් අවුරුද්දක්‌ වේවා!! 🌟🌻</p><br/>
+<center>✨️🎉 SPMods 🇱🇰</center></b>
 
 
  
 
 
-","url":"https://t.co/QjBDho8xTI?amp=1"
+","url":""
 }
