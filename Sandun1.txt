@@ -1,8 +1,12 @@
-{"version_code":211817029,"content":"
+{"version_code":211817030,"content":"
 <br/><b><p><i>Hi User,</i></p>
-<p>This app is FREE and does NOT cost any money!<br>
-If you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automatically.\nNo need to buy it</p><br/>
-
+<p><ul>
+<li>Now You could</li>
+<ul>
+<li>Use One Account on four Devices</li>
+<li>Use Unlimited Accounts on one Device</li>
+<li>Transfer Chats between phones without GDrive</li>
+</p><br/>
 
  
 
