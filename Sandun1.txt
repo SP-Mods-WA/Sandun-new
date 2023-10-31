@@ -1,12 +1,6 @@
 {"version_code":211817030,"content":"
 <br/><b><p><i>Hi User,</i></p>
-<p><ul>
-<li>Now You could</li>
-<ul>
-<li>Use One Account on four Devices</li>
-<li>Use Unlimited Accounts on one Device</li>
-<li>Transfer Chats between phones without GDrive</li>
-</ul></ul></p><br/>
+<br/>
 
  
 
